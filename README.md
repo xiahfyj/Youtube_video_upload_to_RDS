@@ -1,1 +1,1 @@
-#This script retrieve statistics on Youtube channel and upload to AWS
+This script retrieve statistics on Youtube channel and upload to AWS
